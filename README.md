@@ -1,2 +1,4 @@
 # GoToTheMine
-visualstudio2017
+visualstudio 2017 using
+console game
+c++ used
