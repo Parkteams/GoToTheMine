@@ -1,0 +1,2 @@
+# GoToTheMine
+visualstudio2017
