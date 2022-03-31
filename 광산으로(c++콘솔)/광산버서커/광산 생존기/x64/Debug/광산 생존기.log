@@ -1,0 +1,87 @@
+﻿  Function.cpp
+  Inven.cpp
+  main.cpp
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(654): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(742): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(780): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(791): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(925): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(1696): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(1784): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(1822): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(1833): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(1967): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(2739): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(2827): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(2865): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(2876): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(3010): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(3793): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(3881): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(3919): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(3930): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(4064): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(4850): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(4938): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(4976): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(4987): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(5121): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(5908): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(5996): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(6034): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(6045): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(6179): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(6969): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(7057): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(7095): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(7106): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(7240): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(8032): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(8120): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(8158): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(8169): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(8303): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(9098): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(9186): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(9224): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(9235): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(9369): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(10166): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(10254): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(10292): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(10303): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(10437): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(11236): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(11324): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(11362): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(11373): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(11507): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(12303): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(12391): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(12429): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(12440): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(12574): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(13371): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(13459): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(13497): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(13508): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(13642): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(14438): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(14526): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(14564): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(14575): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(14709): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(15508): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(15596): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(15634): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(15645): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(15779): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(16583): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(16671): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(16709): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(16720): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\user\desktop\코딩\포트폴리오\광산버서커\광산 생존기\main.cpp(16854): warning C4244: '-=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Monster.cpp
+  Player.cpp
+  코드를 생성하고 있습니다...
+  광산 생존기.vcxproj -> C:\Users\user\Desktop\코딩\포트폴리오\광산버서커\x64\Debug\광산 생존기.exe
